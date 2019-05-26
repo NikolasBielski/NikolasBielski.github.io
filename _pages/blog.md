@@ -2,6 +2,7 @@
 title: "Blog"
 permalink: /blog/
 author_profile: true
+comments: true
 ---
 
 {% include base_path %}
