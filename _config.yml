@@ -110,7 +110,7 @@ author:
   avatar           : "/assets/images/profile.jpg"
   bio              : "BIO TBC"
   location         : "New Zealand"
-  email            : "nikdbielski@gmail.com"
+  #email            : "nikdbielski@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -158,6 +158,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -284,7 +285,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: /_posts/
       type: _posts
     values:
       layout: single
@@ -295,7 +296,7 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: ""
+      path: /_pages/
       type: _pages
     values:
       layout: single
