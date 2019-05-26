@@ -284,8 +284,8 @@ compress_html:
 defaults:
   # _posts
   - scope:
-    path: ""
-    type: posts
+      path: ""
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -295,8 +295,8 @@ defaults:
       related: true
   # _pages
   - scope:
-    path: ""
-    type: page
-  - values:
-    layout: single
-    author_profile: true
+      path: ""
+      type: page
+    values:
+      layout: single
+      author_profile: true
