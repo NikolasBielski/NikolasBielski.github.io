@@ -109,9 +109,9 @@ analytics:
 author:
   name             : "Nikolas Bielski"
   avatar           : "/assets/images/profile2.jpg"
-  bio              :  > Ko Whakapunake te maunga. Ko Wairoa teawa. Ko Tākitimu te waka. Ko NgātiKahungunu tōku iwi. Ko
+  bio              :  "Ko Whakapunake te maunga. Ko Wairoa teawa. Ko Tākitimu te waka. Ko NgātiKahungunu tōku iwi. Ko
                         Ngāti Kahu me KapuaMatotoru ngā hapū. Ko Kihitu me Ruataniwhangā Marae. Ko pākehā hoki ahau.
-                        Ko NikolasDavid Bielski tōku ingoa. No Ōtautahi ahau,engari kei Poneke ahau e noho ana.
+                        Ko NikolasDavid Bielski tōku ingoa. No Ōtautahi ahau,engari kei Poneke ahau e noho ana."
   location         : "New Zealand"
   #email            : "nikdbielski@gmail.com"
   links:
