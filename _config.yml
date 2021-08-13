@@ -24,7 +24,7 @@ description              : "Nikolas Bielski's personal site & blog."
 url                      : "https://nikolasbielski.github.io"
 baseurl                  : "/blog"
 repository               : "nikolasbielski/nikolasbielski.github.io"
-teaser                   : "/assets/images/profile.jpg"
+teaser                   : "" #"/assets/images/profile2.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " "
 # breadcrumbs            : false # true, false (default)
@@ -65,7 +65,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true #, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -108,8 +108,10 @@ analytics:
 # Site Author
 author:
   name             : "Nikolas Bielski"
-  avatar           : "/assets/images/profile.jpg"
-  bio              : "BIO TBC"
+  avatar           : "/assets/images/profile2.jpg"
+  bio              :  > Ko Whakapunake te maunga. Ko Wairoa teawa. Ko Tākitimu te waka. Ko NgātiKahungunu tōku iwi. Ko
+                        Ngāti Kahu me KapuaMatotoru ngā hapū. Ko Kihitu me Ruataniwhangā Marae. Ko pākehā hoki ahau.
+                        Ko NikolasDavid Bielski tōku ingoa. No Ōtautahi ahau,engari kei Poneke ahau e noho ana.
   location         : "New Zealand"
   #email            : "nikdbielski@gmail.com"
   links:
