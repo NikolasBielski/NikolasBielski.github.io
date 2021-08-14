@@ -2,23 +2,3 @@
 layout: single
 author_profile: true
 ---
-<section class="content">
-
-	<h2>Welcome</h2>
-    <p>Kia ora! I'm Nikolas Bielski, and welcome to my personal website. Here you'll find things I've learned that I
-    think others might find useful or interesting.\n
-    During the day I work as analyst at the New Zealand Defence Force. In my own time I'm a part-time Ph.D student at the
-    University of Canterbury researching geometric deep learning. I am passionate about how data analysis
-    can enable decisions that lead to profound uplifts in the performance of delivering complex investment and strategic plans.\n
-    I'm also open to contract work, so feel free to flick me an email discuss.</p>
-	<hr />
-
-
-	{% for page in site.posts  %}
-	<h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
-	{{ page.excerpt }} <a href="{{ page.url }}">Continue reading</a>
-	<hr />
-	{% endfor %}
-
-
-</section>
