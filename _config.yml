@@ -25,8 +25,8 @@ url                      : "https://nikolasbielski.github.io"
 baseurl                  : "/blog"
 repository               : "nikolasbielski/nikolasbielski.github.io"
 teaser                   : "" #"/assets/images/profile2.jpg"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : " "
+#logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+#masthead_title           : " "
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
